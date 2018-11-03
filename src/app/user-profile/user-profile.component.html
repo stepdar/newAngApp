@@ -1,0 +1,17 @@
+<div class="form">
+  <h4 class="titre">Fiche de contact</h4>
+  <p>
+  <img [src]="User.photo" [alt]="User.name" />
+  </p>
+  <p><strong>Nom : </strong>{{User.name}}</p>
+  <p><strong>Prenom : </strong>{{User.firstName}}</p>
+
+  <p>{{User.quote}}</p>
+  <input [(ngModel)] = "User.quote" type="text">
+<br/>
+  <p ></p>
+<div class="part2">
+  <button (click)="afficherMasquerAge()">Afficher/Masquer mon âge</button>
+  <p [hidden]="hide">Age : {{User.age}} ans</p>
+</div>
+</div>

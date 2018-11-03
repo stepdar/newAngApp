@@ -1,3 +1,5 @@
+QUETE 2-ANGULAR-LE BINDING
+présente dans la  branche Binding
 # MyNewApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
