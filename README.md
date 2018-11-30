@@ -1,5 +1,5 @@
-QUETE 2-ANGULAR-LE BINDING
-présente dans la  branche Binding
+QUETE 3-Router dans branche router ; suite des quêtes 1 et 2 
+
 # MyNewApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
