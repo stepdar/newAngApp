@@ -7,6 +7,8 @@ import { FormsModule } from '@angular/forms';
 import { UserProfileComponent } from './user-profile/user-profile.component';
 import {AppRoutingModule} from './app-routing.module';
 import { MenuComponent } from './menu/menu.component';
+import { HightLightDirective } from './hight-light.directive';
+import { ShowMoviesDirective } from './show-movies.directive';
 
 
 @NgModule({
@@ -14,7 +16,9 @@ import { MenuComponent } from './menu/menu.component';
     AppComponent,
     SignUpComponent,
     UserProfileComponent,
-    MenuComponent
+    MenuComponent,
+    HightLightDirective,
+    ShowMoviesDirective
   ],
   imports: [
     BrowserModule,
