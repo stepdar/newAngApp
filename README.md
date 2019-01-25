@@ -1,4 +1,4 @@
-QUETE 3-Router dans branche router ; suite des quêtes 1 et 2 
+QUETE Directive dans branche directive ; toutes les quetes presentes
 
 # MyNewApp
 
